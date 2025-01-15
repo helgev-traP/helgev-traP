@@ -5,4 +5,4 @@
 Technology of art, by art, for art.
 
 - Institute of Science Tokyo
-- [traP](https:://trap.jp)
+- [traP](https://trap.jp)
