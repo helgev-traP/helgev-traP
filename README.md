@@ -19,4 +19,4 @@ Fully node-based cross-platform video editing software (working title, currently
 
 ### [bmidi](https://github.com/helgev-traP/bmidi)
 
-Python library for reading MIDI and manipulate blender objects from it.
+Blender Python library for reading MIDI and manipulate objects from it.
