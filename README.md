@@ -21,7 +21,7 @@ Fully node-based cross-platform video editing software (working title, currently
 
 Blender Python library for reading MIDI and manipulate objects and keyframes from it.
 
-##　Works
+## Works
 
 ### [Live-wgsl](https://github.com/helgev-traP/live-wgsl)
 
