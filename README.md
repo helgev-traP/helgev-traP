@@ -13,9 +13,9 @@ Technology of art, by art, for art.
 
 A Rust GUI crate with a Vue-like Elm architecture, designed for frame-by-frame control.
 
-### Synapse
+### [Synapse](https://github.com/helgev-traP/Synapse-prototype)
 
-Fully node-based cross-platform video editing software (working title, currently private).
+Fully node-based cross-platform video editing software (working title).
 
 ### [bmidi](https://github.com/helgev-traP/bmidi)
 
